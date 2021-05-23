@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-
+[![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=IshitaSharma3101&theme=radical)](https://github.com/IshitaSharma3101/github-readme-stats)
 
 
 
