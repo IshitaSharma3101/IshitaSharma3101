@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: Scripting my life through JavaScript
 
-<img align="right" alt="GIF" width="340px" height="300px" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" />
+<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" />
 
 <br/>
 
