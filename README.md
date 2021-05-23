@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ## I'm a Coder, Developer, and Learner!!
 
 
+- 😄 Pronouns: She/Her/Hers
 - 🌱 I’m currently learning full stack development
-- 👯 
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
-- ⚡ Fun fact: I love reading books and quotes..
+- ⚡ Fun fact: Scripting my life through JavaScript
 
 <img align="right" alt="GIF" width="400px" height="360px" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" />
 
