@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: Scripting my life through JavaScript
 
-<img align="right" alt="GIF" width="360px" height="270px" src="https://images.getfused.com/Blog-Gif-WebDesign-D581.gif" />
+<img align="right" alt="GIF" width="340px" height="270px" src="https://images.getfused.com/Blog-Gif-WebDesign-D581.gif" />
 
 <br/>
 
