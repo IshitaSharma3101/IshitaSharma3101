@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: Scripting my life through JavaScript
 
-<img align="right" alt="GIF" width="300px" height="270px" src="https://www.starknet-tech.com/wp-content/uploads/2019/08/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif" />
+<img align="right" alt="GIF" width="300px" height="270px" src="https://i.gifer.com/3SBK.gif" />
 
 <br/>
 
