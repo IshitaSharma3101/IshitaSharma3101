@@ -1,6 +1,6 @@
 
 <!--
-**Aryamaan23/Aryamaan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IshitaSharma3101/IshitaSharma3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: Scripting my life through JavaScript
 
-<img align="right" alt="GIF" width="300px" height="270px" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" />
+<img align="right" alt="GIF" width="300px" height="270px" src="https://i.gifer.com/3SBK.gif" />
 
 <br/>
 
