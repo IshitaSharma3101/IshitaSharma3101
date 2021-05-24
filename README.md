@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 ## I'm a Coder, Developer, and Learner!!
 
 
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 - 🌱 I’m currently learning full stack development
 - 🥅 2020 & 2021 Goals: Contribute more to Open Source projects and to become a competitive programmer
 - ⚡ Fun fact: Scripting my life through JavaScript
 
-<img align="right" alt="GIF" width="300px" height="270px" src="https://i.gifer.com/3SBK.gif" />
+<img align="right" alt="GIF" width="300px" height="270px" src="https://www.starknet-tech.com/wp-content/uploads/2019/08/MANAGING-THE-CRAZINESS-OF-A-WEB-DEVELOPER-SCHEDULE-banner2.gif" />
 
 <br/>
 
